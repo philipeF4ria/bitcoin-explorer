@@ -18,7 +18,7 @@ export const HeaderBar = styled.header`
     margin: 0 8px 0 12px;
   }
 
-  @media (max-width: 400px) {
+  @media (max-width: 600px) {
     justify-content: center;
 
     position: sticky;

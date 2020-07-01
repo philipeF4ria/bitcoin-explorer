@@ -42,7 +42,7 @@ export const Form = styled.form`
     }
   }
 
-  @media (max-width: 400px) {
+  @media (max-width: 600px) {
     display: flex;
     flex-direction: column;
 
@@ -122,7 +122,7 @@ export const Display = styled.div`
     justify-content: space-between;
   }
 
-  @media (max-width: 400px) {
+  @media (max-width: 600px) {
     display: flex;
     flex-direction: column;
   }
