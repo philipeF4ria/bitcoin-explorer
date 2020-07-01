@@ -41,6 +41,36 @@ export const Form = styled.form`
       background: ${shade(0.2, '#f7a900')};
     }
   }
+
+  @media (max-width: 400px) {
+    display: flex;
+    flex-direction: column;
+
+    height: 200px;
+    width: 300px;
+
+    .currencyField {
+      height: 100px;
+      width: 100%;
+
+      border: 0;
+      margin: 0 0 10px 0;
+    }
+
+    input {
+      flex: 1;
+      height: 60px;
+      padding: 0 20px;
+      border: 2px solid #fff;
+      outline: none;
+      color: #3a3a3a;
+    }
+
+    button {
+      align-self: center;
+      margin-top: 8px;
+    }
+  }
 `;
 
 export const Display = styled.div`
@@ -90,6 +120,11 @@ export const Display = styled.div`
   span {
     display: flex;
     justify-content: space-between;
+  }
+
+  @media (max-width: 400px) {
+    display: flex;
+    flex-direction: column;
   }
 `;
 

@@ -17,4 +17,10 @@ export const HeaderBar = styled.header`
     color: #f7a900;
     margin: 0 8px 0 12px;
   }
+
+  @media (max-width: 400px) {
+    justify-content: center;
+
+    position: sticky;
+  }
 `;
