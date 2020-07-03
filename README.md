@@ -11,7 +11,8 @@
 2) Se os dados informados estiverem corretos, haverá uma requisição à API da Blockchain. <br />
 3) A requisição retornará a quantidade de Bitcoins que podem ser compradas à partir do valor informado pelo usuário.
 
-![02](https://user-images.githubusercontent.com/60238162/86289387-ff07b980-bbc1-11ea-98d6-03a45296a9e4.jpg)![Scrennshot 02](https://user-images.githubusercontent.com/60238162/86491346-fa1d4400-bd40-11ea-99a8-4c94eccbf03e.png)> Página com o retorno dos dados
+![Scrennshot 02](https://user-images.githubusercontent.com/60238162/86491346-fa1d4400-bd40-11ea-99a8-4c94eccbf03e.png)
+> Página com o retorno dos dados
 
 ### Quais tecnologias utilizadas nesta aplicação? ###
 
