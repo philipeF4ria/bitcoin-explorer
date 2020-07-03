@@ -2,7 +2,7 @@
 
 ### Aplicação desenvolvida em ReactJS para obter a quantidade de bitcoins de acordo com o valor indicado pelo usuário
 
-![01](https://user-images.githubusercontent.com/60238162/86289010-4d688880-bbc1-11ea-836a-518f56ef7f4b.jpg)
+![Screenshot 01](https://user-images.githubusercontent.com/60238162/86491329-e70a7400-bd40-11ea-816d-776d2049be3b.png)
 > Página inicial
 
 ### Como a aplicação funciona? ###
@@ -11,8 +11,7 @@
 2) Se os dados informados estiverem corretos, haverá uma requisição à API da Blockchain. <br />
 3) A requisição retornará a quantidade de Bitcoins que podem ser compradas à partir do valor informado pelo usuário.
 
-![02](https://user-images.githubusercontent.com/60238162/86289387-ff07b980-bbc1-11ea-98d6-03a45296a9e4.jpg)
-> Página com o retorno dos dados
+![02](https://user-images.githubusercontent.com/60238162/86289387-ff07b980-bbc1-11ea-98d6-03a45296a9e4.jpg)![Scrennshot 02](https://user-images.githubusercontent.com/60238162/86491346-fa1d4400-bd40-11ea-99a8-4c94eccbf03e.png)> Página com o retorno dos dados
 
 ### Quais tecnologias utilizadas nesta aplicação? ###
 
